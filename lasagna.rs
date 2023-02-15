@@ -1,5 +1,6 @@
 
 ///Lucian is baking lasagna!
+///practicing functions in rust
 
 fn main() {
 	println!("test");
